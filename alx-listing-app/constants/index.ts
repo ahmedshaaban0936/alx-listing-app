@@ -1,5 +1,5 @@
-export const API_URL = 'https://api.example.com';
-export const BUTTON_LABELS = {
-  BOOK_NOW: 'Book Now',
-  DETAILS: 'View Details',
+export const API_URL = "https://api.example.com";
+export const UI_TEXT = {
+  bookNow: "Book Now",
+  details: "View Details",
 };
